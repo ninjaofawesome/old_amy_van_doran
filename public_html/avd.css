@@ -1,0 +1,132 @@
+
+body { background: #fff; font-family: "neutrafacemedium", Helvetica, Arial, sans-serif; font-weight: normal; font-style: normal; font-size: 14px; line-height: 1; color: #fff; position: relative; -webkit-font-smoothing: antialiased; }
+
+a { color: #666; text-decoration: none; line-height: inherit; }
+
+a:hover { color: #666; }
+
+a:focus { color: #666; outline: none; }
+
+p a, p a:visited { line-height: inherit; }
+
+.highlight { background: #fff; }
+
+.green { background: #77d9d3;}
+
+.pink {background: #ffcccc;}
+
+.shadow {
+box-shadow: 1px 1px 3px 3px #666;
+-webkit-box-shadow: 1px 1px 3px 3px #666;}
+
+.column, .columns {
+padding: 0 7px;
+
+}
+.row.bump { padding: 12px 0 0 0; }
+.row.bump2 { padding: -25px 0 0 0; }
+
+ul { line-height: inherit; }
+
+.box {padding: 10px;}
+
+
+
+h3.aboutamy { font-family: "neutrafacetitling", Helvetica, Arial, sans-serif; 
+font-size:27px;
+color: #fff;  }
+
+p  {font-family: "neutrafacemedium", Helvetica, Arial, sans-serif;
+    font-weight: normal; 
+    font-style: normal; 
+    font-size: 18px; 
+    line-height: 1;
+    margin-bottom: 7px;
+    color: #fff;
+    position: relative; 
+    -webkit-font-smoothing: antialiased; }
+
+.nospace {padding: 0;}
+
+.services p, .services h4, .services h3, .services h2 {
+    color: #999;
+}
+
+.contact_info p, .contact_info h4, .contact_info h3, .contact_info h2, .contact_info h1 {
+    color: #999;
+}
+.contact_info {
+    margin-top: 100px;
+}
+
+#contact_info {
+    margin-top: 50px:
+}
+
+#contact_infosmall {
+    margin-top: 10px;
+}
+
+#contact_infosmall p, #contact_infosmall h4, #contact_infosmall h3, #contact_infosmall h2 {
+    color: #999;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "neutrafacebold", Helvetica, Arial, sans-serif;
+}
+
+h1.title, h2.title, h3.title, h4.title, h5.title, h6.title {
+  font-family: "neutrafacebold", Helvetica, Arial, sans-serif;
+  font-size: 200%;
+}
+
+h5 {
+  margin-top: 0;
+  color: #fff;
+}
+h3#certified {
+    margin-bottom: 0;
+    margin-left: 10px;
+}
+
+h1 small, h2 small, h3 small, h4 small, h5 small, h6 small { font-size: 60%; color: #fff; line-height: 0; }
+
+.fb-like {
+    position: absolute;
+    top: 140px;
+    float: right;
+    margin-bottom: 0;
+}
+
+.buttonfont {font-family: "neutrafacebold", Helvetica, Arial, sans-serif; font-weight: normal; font-style: normal; font-size: 28px;  color: #999; text-rendering: optimizeLegibility; margin-bottom: 14px; margin-top: 14px;}
+
+.button { width: auto; background: none; border: none;-webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset; -moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset; box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset; color:; cursor: pointer; display: inline-block; font-family: inherit; font-size: 14px; font-weight: bold; line-height: 1; margin: 0; outline: none; padding: 10px 20px 11px; position: relative; text-align: center; text-decoration: none; -webkit-transition: background-color 0.15s ease-in-out; -moz-transition: background-color 0.15s ease-in-out; -o-transition: background-color 0.15s ease-in-out; transition: background-color 0.15s ease-in-out; /* Hovers */ /* Sizes */ /* Colors */ /* Radii */ /* Layout */ /* Disabled ---------- */ }
+
+
+.buttonfont:hover {  background-color: none; font-family: "neutrafacetitling", Helvetica, Arial, sans-serif; font-weight: bold; font-style: normal; color: #666; text-rendering: optimizeLegibility; margin-bottom: 14px; margin-top: 14px }
+
+@font-face {
+    font-family: "neutrafacethin";
+    src: url('fonts/neutra2displaythin.ttf');
+}
+
+@font-face {
+    font-family: "neutrafacelight";
+    src: url('fonts/neutra2displaylight.ttf');
+}
+
+@font-face {
+    font-family: "neutrafacemedium";
+    src: url('fonts/neutra2displaymedium.ttf');
+}
+
+@font-face {
+    font-family: "neutrafacebold";
+    src: url('fonts/neutra2displaybold.ttf');
+}
+
+@font-face {
+    font-family: "neutrafacetitling";
+    src: url('fonts/neutra2displaytitling.ttf');
+}
+
